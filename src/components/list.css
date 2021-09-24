@@ -1,0 +1,18 @@
+.list{
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid sienna;
+    width: 100%;
+    background-color:  #25273c;
+
+}
+.tarefa{
+    margin-left: 40px;
+}
+.list .checkbox {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #606060;
+    border-radius: 50%;
+    cursor: pointer;
+}

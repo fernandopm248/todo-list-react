@@ -1,0 +1,40 @@
+
+.todo{
+    font-size: 40px;
+    font-family:sans-serif;
+    width: 100%;
+}
+.contents{
+    display: flex;
+justify-content:center;
+align-items: center;
+flex-direction: column;
+color:white;
+padding-top: 100px;
+width: 40%;
+margin: 0 auto;
+margin-bottom: 300px;
+
+}
+.header{
+    display:flex;
+align-items:center;
+width: 100%;
+justify-content: space-between;
+}
+
+
+.newtodo{
+    width: 100%;
+}
+.newtodo input{
+    width: 100%;
+    border:none;
+    background-color: #25273c;
+    padding: 20px;
+
+}
+.sol{
+    background-color: transparent;
+    border:none;
+}

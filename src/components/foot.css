@@ -1,0 +1,23 @@
+.foot{
+    display: flex;
+    background-color: #25273c ;
+    width: 100%;
+    padding: 10px 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.foot span{
+    display: flex;
+    justify-content: space-between;
+    
+
+
+}
+.list-cont{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 30px;
+
+
+}
